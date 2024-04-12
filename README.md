@@ -1,7 +1,7 @@
 # EQPnozzleArray - Plant 3D Example Code - Use at own risk
 Speed up (a bit) the nozzle creation workflow, if there are many nozzles on an equipment.
 You can prepare lines for the nozzle direction and length. Make sure the lines intersect with the equipment.
-Compile this code with Visual Studio and load the resulting dll with "netload".
+-Compile this code with Visual Studio and load the resulting dll with "netload".
 Execute the EQPnozzleArray command from the command line.
 You will be prompted to select the equipment.
 You will be prompted to select a line.
