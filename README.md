@@ -1,6 +1,6 @@
 # EQPnozzleArray - Plant 3D Example Code - Use at own risk
 
-Note: better approach can be found here (NozzleArray).
+Note: better approach can be found here (<a href="https://github.com/Henaccount/NozzleArray" target="_blank">NozzleArray</a>).
 
 
 
